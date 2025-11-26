@@ -19,8 +19,9 @@ The overall run time complexity should be O(log (m+n)).
 ```
 /*
 Program to implement Reverse a String
-Developed by: SANJAI L
-RegisterNumber: 212223230184
+Developed by: saiguruchandran g
+RegisterNumber: 212223240143
+
 */
 
 import java.util.Scanner;
